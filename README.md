@@ -11,7 +11,7 @@ CCFinderSWの出力ファイルをJSON形式に変換するツールです。
 ## インストール
 
 ```bash
-git clone https://github.com/your-username/ccfindersw-parser.git
+git clone https://github.com/YukiOhta0519/ccfindersw-parser.git
 cd ccfindersw-parser
 cargo build --release
 ```
